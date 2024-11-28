@@ -2,9 +2,9 @@
 I'm an **Msc Agriculture (Animal Science)** graduate with a strong passion for solving real-world problems through data,research and innovative solutions. I aim to create impactful projects and collaborate on exciting opportunities.
 
 ### 🛠 What I Do
-**Data Analysis** Exploring and organizing data to uncover insights.
-**Research** Focused on sustainable solutions in Agriculture and animal science.
-**Communication** Sharing knowledge through clear and impactful content.
+**Data Analysis:** Exploring and organizing data to uncover insights.
+**Research:** Focused on sustainable solutions in Agriculture and animal science.
+**Communication:** Sharing knowledge through clear and impactful content.
 
 ### 🚀 Goals  
 Contribute to open-source projects that make a difference.  
